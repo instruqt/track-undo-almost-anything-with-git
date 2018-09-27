@@ -1,6 +1,6 @@
 version: "2"
 containers:
 - name: shell
-  image: ubuntu
+  image: gcr.io/instruqt/shell-git
   shell: /bin/bash
   memory: 64
