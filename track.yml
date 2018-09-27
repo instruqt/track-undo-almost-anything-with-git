@@ -1,0 +1,37 @@
+slug: undo-almost-anything-with-git
+id: cc5twmqnynms
+version: 0.0.1
+type: track
+title: Undo (almost) anything with Git
+teaser: A short description of the track.
+description: |-
+  A long description of the track.
+
+  You can use any GitHub flavoured markdown.
+icon: https://storage.googleapis.com/instruqt-frontend/img/tracks/github.png
+tags: []
+developers:
+- bas@instruqt.com
+- leefaus@github.com
+private: false
+published: false
+challenges:
+- slug: first-challenge
+  id: y5vkzdc5qatd
+  type: challenge
+  title: First challenge
+  teaser: A short description of the challenge.
+  assignment: |-
+    The assignment the participant needs to complete in order to proceed.
+
+    You can use any GitHub flavoured markdown.
+  notes:
+  - type: text
+    contents: Replace this text with your own text
+  tabs:
+  - title: Shell
+    type: terminal
+    hostname: shell
+  difficulty: basic
+  timelimit: 300
+checksum: "2916991196311284692"
